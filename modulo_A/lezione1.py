@@ -1,1 +1,11 @@
 #nessun esercizio da fare
+
+#PROVE
+
+def decapita(t):
+    t[0:2] = [t[1]]
+
+t = [0,1,2]
+
+decapita(t)
+print(t)

@@ -1,0 +1,5 @@
+esempio
+semplice
+ripeto esempio
+esempio
+il risultato deve essere lo stesso file con un esempio in meno
